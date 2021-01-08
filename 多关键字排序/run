@@ -1,0 +1,8 @@
+gcc -o sort sort.c
+echo "[INFO] Compiling..."
+echo "[INFO] Start_program"
+./sort
+rm sort
+echo "[INFO] New file added (+)."
+echo "[INFO] Remove temp files (-)."
+echo "[INFO] Program exit normally...Goodbye."
